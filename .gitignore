@@ -1,3 +1,11 @@
+.DS_Store
+Build/*
+
+# Generator scripts
+!Build/GenerateProjectFiles.command
+!Build/GenerateProjectFiles.sh
+!Build/GenerateProjectFiles.bat
+
 # Prerequisites
 *.d
 
